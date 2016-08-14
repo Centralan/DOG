@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 23.25-b01 (Sun Microsystems Inc.)
+Class-Path: runsafe/framework.jar runsafe/joda-time-2.1.jar
+

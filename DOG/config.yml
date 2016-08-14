@@ -1,0 +1,162 @@
+autoresponder:
+  delay: 10
+  cooldown:
+    rule: 10
+    player: 0
+name: DOG
+group: AI
+world: vanish
+whisper: '%1$s &7-> &f%2$s'
+messages:
+  blocked:
+    world: Hello there, you seem to want to play Survival! Please contact a member of staff and ask to become a builder to proceed.
+    world_nether: Hello there, you seem to want to play Survival! Please contact a member of staff and ask to become a builder to proceed.
+    world_the_end: Hello there, you seem to want to play Survival! Please contact a member of staff and ask to become a builder to proceed.
+    world_creative: Hello there, you seem to want to play Creative! Please find a free plot and ask a member of staff if you can have it.
+    Survival: Hello there, you seem to be in the wrong world, Sorry about that! Please type /spawn!
+    survival3: Hello there, you seem to want to play Survival! Please contact a member of staff and ask to become a builder to proceed.
+    survival3_nether: Hello there, you seem to want to play Survival! Please contact a member of staff and ask to become a builder to proceed.
+    Creative: Hello there, you seem to want to play Creative! Please find a free plot and ask a member of staff if you can have it.
+where:
+  world: '%s is playing in survival.'
+  Creative: '%s is building in the Creative world.'
+  gameroom: '%s is busy in one of the gaming worlds.'
+  spawn: '%s is trying to figure out what to play at spawn.'
+  survival3: '%s might be fighting a Dergon in Survival.'
+  pvparena: '%s fighting for glory in the PvP arena!'
+  wizardpvp: '%s is using magic spells to fight in Wizard PvP!'
+  lms: '%s is trying to be the best in Last Man Standing!'
+insults:
+  a:
+  - lazy
+  - stupid
+  - insecure
+  - idiotic
+  - slimy
+  - slutty
+  - smelly
+  - pompous
+  - dick-nose
+  - pie-eating
+  - racist
+  - elitist
+  - drug-loving
+  - butter-face
+  - tone deaf
+  - ugly
+  - creepy
+  - greasy
+  - perverted
+  - poopy
+  - stinky
+  - cruddy
+  - baby
+  - droopy
+  - dribbling
+  - bloody
+  - swanky
+  - fabulous
+  - moudly
+  - sharty
+  - whimpey
+  - wibbly
+  - old
+  - derelict
+  - abandoned
+  - wet
+  b:
+  - douche
+  - ass
+  - turd
+  - rectum
+  - butt
+  - cock
+  - shit
+  - crotch
+  - bitch
+  - turd
+  - prick
+  - slut
+  - taint
+  - fuck
+  - dick
+  - boner
+  - shart
+  - nut
+  - sphincter
+  - fart
+  - twat
+  - conker
+  - butt
+  - bum
+  - rear
+  - blood
+  - jibbler
+  - seat
+  - cum
+  - window
+  c:
+  - pilot
+  - canoe
+  - captain
+  - pirate
+  - hammer
+  - knob
+  - box
+  - jockey
+  - waffle
+  - goblin
+  - blossum
+  - biscuit
+  - clown
+  - socket
+  - monster
+  - hound
+  - dragon
+  - balloon
+  - rider
+  - owner
+  - fighter
+  - crumpet
+  - toaster
+  - hole
+  - pot
+  - ditch
+  - grave
+  - puddle
+  - blood-stain
+  - fluff
+  - packet
+  - plague
+  - ghoul
+  - geist
+  - beast
+  - machine
+  - dung
+  - pile
+  - coffin
+  - pedo
+  - stalker
+compliments:
+  a:
+  - beautiful
+  - glorius
+  - pretty
+  - shiny
+  - super amazing
+  - goregous
+  - cute
+  - kind
+  - friendly
+  - lovely
+  - really awesome
+  - super
+  - sexy
+  b:
+  - sailor
+  - person
+  - friend
+  - buddy
+  - dude
+  - winner
+  - wizard

@@ -1,0 +1,9 @@
+name: DOG
+main: no.runsafe.dog.DOGPlugin
+version: 1.1.1272
+authors: [mortenn, Kruithne]
+description: The almighty DOG
+depend: [nChat]
+commands:
+  dog:
+    description: A collection of commands to control DOG
